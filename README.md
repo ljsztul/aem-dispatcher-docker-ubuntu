@@ -1,5 +1,5 @@
 # AEM Dispatcher Container
-This a basic and simple AEM Dispatcher setup for use the Dispatcher with Docker and in parallel an AEM Publish Instance. 
+This a basic and simple AEM Dispatcher setup for use the Dispatcher with Ubuntu with Docker in parallel with an AEM Publish Instance. 
 
 
 ### Build
