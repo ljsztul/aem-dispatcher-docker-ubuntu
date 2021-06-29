@@ -1,4 +1,6 @@
 # AEM Dispatcher Container
+This a basic and simple AEM Dispatcher setup for use the Dispatcher with Docker and in parallel an AEM Publish Instance. 
+
 
 ### Build
 ```
